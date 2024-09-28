@@ -17,7 +17,8 @@
 - I’m looking to collaborate on open source projects which promote education...
 - I bring experience on project management to the table...
  
-- 📫 How to reach me at [sanjanamittal2002@gmail.com]
+- # 📫 You can reach me at:
+-  [sanjanamittal2002@gmail.com]
   
 - # You can also contact me on my linkedin profile:
 - < https://www.linkedin.com/in/sanjana-mittal-7aa5b6230/ >
@@ -27,20 +28,20 @@
 - # These are some quotes that I would like to mention, that I follow as my mantra of life:
 - 
 - "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
-- ~~ PATRICK MCKENZIE , Software Engineer
+- # ~~ PATRICK MCKENZIE , Software Engineer
 
 - "The most successful people are those who are willing to take risks. The biggest risk you can take is to not take any risks."
-- ~~ ROBERT KIYOSAKI
+- # ~~ ROBERT KIYOSAKI
 
 - "Dream is not that you see while sleeping, dream is something which does not let you sleep."
-- ~~ A.P.J. ABDUL KALAM
+- # ~~ A.P.J. ABDUL KALAM
 
 - Well there are quite a few, that I would like to mention here, but then it would become more of a philosophical kind of profile.😅
 
-- Last but not the least...
-- # Keep working hard, be kind, believe that there is some higher power always looking at us, chase your dreams, get successful...
+- # Last but not the least...
+- Keep working hard, be kind, believe that there is some higher power always looking at us, chase your dreams, get successful...
 - One day we all will get where we want...
-- # Between all the struggles and hardships of life , do not forget to enjoy that journey...
+- Between all the struggles and hardships of life , do not forget to enjoy that journey...
 - # BECAUSE YOU ONLY LIVE ONCE!!
 
 - >>Thank you for visiting my profile, eager to learn from everyone around, develop my skills and stepping into the world of developers... Looking forward for all the new opportunities...😊👩‍💻<<
