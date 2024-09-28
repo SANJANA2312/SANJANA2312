@@ -7,9 +7,9 @@
 - 👀 I’m interested in learning new technology and design related things, developing my skills.
   
 - # I’m currently learning:
--*HTML
--*To work on Adobe Illustrator
--*Photography 📷
+- HTML
+- To work on Adobe Illustrator
+- Photography 📷
 
 - ## Skills  >>
 - Programming languages : C Programming...
