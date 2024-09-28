@@ -23,7 +23,7 @@
 - # You can also contact me on my linkedin profile:
  < https://www.linkedin.com/in/sanjana-mittal-7aa5b6230/ >
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love baking , drawing, paper crafting, sleeping... Also initially I found coding a little boring, I never thought that I would want to make a career in field of development, but here I am! Beginning my journey of learning!
+- ⚡ Fun fact: I love baking , drawing, paper crafting... Also initially I found coding a little boring, I never thought that I would want to make a career in field of development, but here I am! Beginning my journey of learning!
 
 - # These are some quotes that I would like to mention, that I follow as my mantra of life:
   
