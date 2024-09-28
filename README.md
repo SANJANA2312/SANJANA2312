@@ -1,6 +1,6 @@
  # Hello world!👋
   
-**!Welcome to my Github!"**
+**Welcome to my Github!"**
   
 ## About Me >>
 - I’m [@SANJANA2312]
@@ -26,7 +26,7 @@
 - ⚡ Fun fact: I love baking , drawing, paper crafting, sleeping... Also initially I found coding a little boring, I never thought that I would want to make a career in field of development, but here I am! Beginning my journey of learning!
 
 - # These are some quotes that I would like to mention, that I follow as my mantra of life:
-- 
+  
 - "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
 - # ~~ PATRICK MCKENZIE , Software Engineer
 
