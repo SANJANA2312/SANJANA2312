@@ -24,7 +24,10 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love baking , drawing, paper crafting, sleeping...
 
+- Thank you for visiting my profile, eager to learn from everyone around, develop my skills and stepping into the world of developers... Looking forward for all the new opportunities...😊👩‍💻
+
 <!---
 SANJANA2312/SANJANA2312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
