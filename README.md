@@ -45,6 +45,13 @@
 - # BECAUSE YOU ONLY LIVE ONCE!!
 
 - >>Thank you for visiting my profile, eager to learn from everyone around, develop my skills and stepping into the world of developers... Looking forward for all the new opportunities...😊👩‍💻<<
+  
+
+
+  ## Resources
+- [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/).
+  
+
 
 <!---
 SANJANA2312/SANJANA2312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
