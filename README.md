@@ -11,6 +11,8 @@
 - To work on Adobe Illustrator
 - Photography 📷
 
+ ! [Git image](images/gitimage.jpg)
+
 - ## Skills  >>
 - Programming languages : C Programming...
 - Tools : Git, VsCode...
