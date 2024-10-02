@@ -46,6 +46,8 @@
 - Between all the struggles and hardships of life , do not forget to enjoy that journey...
 - # BECAUSE YOU ONLY LIVE ONCE!!
 
+- Don't forget to keep yourself hydrated , drink enough H<sub>2</sub>O
+
 - >>Thank you for visiting my profile, eager to learn from everyone around, develop my skills and stepping into the world of developers... Looking forward for all the new opportunities...😊👩‍💻<<
   
 
