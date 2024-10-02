@@ -21,7 +21,7 @@
   [sanjanamittal2002@gmail.com]
   
 - # You can also contact me on my linkedin profile:
- < https://www.linkedin.com/in/sanjana-mittal-7aa5b6230/ >
+  [connect with me on linkedin](https://www.linkedin.com/in/sanjana-mittal-7aa5b6230/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love baking , drawing, paper crafting... Also initially I found coding a little boring, I never thought that I would want to make a career in field of development, but here I am! Beginning my journey of learning!
 
@@ -58,3 +58,6 @@ SANJANA2312/SANJANA2312 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
+[def]: https://www.linkedin.com/in/sanjana-mittal-7aa5b6230/
